@@ -6,7 +6,8 @@ from telebot import types
 import time
 
 # --- توكن البوت الخاص بك (مفتاح الجحيم المحدث) ---
-TOKEN = "8091017824:AAEB-0sujJW5s2zXXdLXlda_NBHh8k_sPt8"
+TOKEN = "8723577608:AAH510a1he4ZS9IgZ9-cqROs
+aq96uLloKxQ"
 bot = telebot.TeleBot(TOKEN)
 
 # رسالة الترحيب المرعبة
